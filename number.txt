@@ -1,3 +1,3 @@
 Rest URL:http://10.238.237.246:8080/job/Git-Checkout/4/api/json?tree=number,url,timestamp,duration,building,result,culprits[fullName],actions[parameters[name,value]],changeSet[items[user,author[fullName],revision,id,msg,timestamp,date,paths[file]],revisions[module,revision]]
 Chnage Set:{"items":[{"date":"2016-12-21 17:14:50 +0530","msg":"updated and committed","author":{"fullName":"YavanaPriya"},"paths":[{"file":"number.txt"},{"file":"newdoc.txt"}],"id":"e1c7e42a677794b0db5365f0cb784d900b44b528","timestamp":1482320690000}]}
-hello....welcome
+hello....welcome...to ...git
